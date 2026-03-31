@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 3: Disk and Permission Auditor
-# Author: Parul Thakur | Reg No: 24BCE10972
+# Author: Renika Jha | Reg No: 24BAS10006
 # Course: Open Source Software 
 
 # --- List of important system directories to audit ---
