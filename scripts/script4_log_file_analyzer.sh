@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 4: Log File Analyzer
-# Author: Parul Thakur | Reg No: 24BCE10972
+# Author: Renika Jha | Reg No: 24BAS10006
 # Course: Open Source Software 
 
 # Usage: ./script4_log_file_analyzer.sh /path/to/logfile [KEYWORD]
