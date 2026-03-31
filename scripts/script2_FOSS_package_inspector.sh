@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Parul Thakur | Reg No: 24BCE10972
+# Author: Renika Jha | Reg No: 24BAS10006
 # Course: Open Source Software 
 
 
