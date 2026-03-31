@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Parul Thakur | Reg No: 24BCE10972
+# Author: Renika Jha | Reg No: 24BAS10006
 # Course: Open Source Software 
 
 
 # --- Student & Software Variables ---
-STUDENT_NAME="Parul Thakur"
-REG_NO="24BCE10972"
+STUDENT_NAME="Renika JHA"
+REG_NO="24BAS10006"
 SOFTWARE_CHOICE="Git"
 
 # --- Gather System Information using command substitution ---
